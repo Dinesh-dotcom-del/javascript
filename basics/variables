@@ -1,0 +1,8 @@
+const accountId = 469368
+let accountEmail = "din@gmail.com"
+var accountPass = "123"
+accountcity = "himachal"
+
+// node
+console.log(accountId);
+console.table([accountId,accountEmail,accountPass]);
